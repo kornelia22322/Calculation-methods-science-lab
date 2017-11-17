@@ -1,4 +1,3 @@
-
 #include "linear.h"
 #include <iostream>
 #include <sys/resource.h>
